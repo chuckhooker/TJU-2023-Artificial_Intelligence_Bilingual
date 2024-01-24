@@ -15,7 +15,7 @@
 ```
 ├── Code                  -- Coding
 |   └──lab name         -- Total 2 labs
-│  	     └── code.java
+│  	     └── code.py
 │   
 ├── Lab guide              -- Project Requirements (Total 2)
 |
